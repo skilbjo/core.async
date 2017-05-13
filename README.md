@@ -1,7 +1,7 @@
 # core.async
 
 ## Why
-From (http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html)[http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html]
+From http://clojure.com/blog/2013/06/28/clojure-core-async-channels.html:
 
     There comes a time in all good programs when components or subsystems must stop
     communicating directly with one another.  This is often achieved via the introduction
